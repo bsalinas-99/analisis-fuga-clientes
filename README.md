@@ -39,3 +39,13 @@ Cada fila representa un cliente y las columnas incluyen:
 
 ## 📁 Estructura del repositorio
 
+analisis-fuga-clientes/
+│
+├── notebook/
+│ └── analisis_fuga_clientes_proyecto_personal.ipynb # Análisis completo con preprocesamiento y visualizaciones
+│
+├── data/
+│ └── Base_Fuga_M1.xlsx # Base simulada con información de clientes
+│
+├── README.md # Descripción general del proyecto
+
